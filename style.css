@@ -1,0 +1,13 @@
+.x-axis {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  background-color: black;
+}
+
+.y-axis {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  background-color: black;
+}
